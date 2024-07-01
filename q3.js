@@ -22,3 +22,4 @@ console.log(primeNumber(d1));
 console.log(primeNumber(d2));
 console.log(primeNumber(d3));
 module.exports = primeNumber;
+// ชื่อ-สกุล: ณัฐสธน พันธุ์อำพัน, รหัสนักศึกษา: 660612145
